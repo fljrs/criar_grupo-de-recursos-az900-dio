@@ -12,5 +12,6 @@ Clique em Avançar e em Marcações adicione um subititulo para identificar os r
 
 <img width="1843" height="488" alt="image" src="https://github.com/user-attachments/assets/fe35900d-98a5-4bb7-85d4-6dbb52d4a538" />
 
+
 <img width="1874" height="485" alt="image" src="https://github.com/user-attachments/assets/c83d6526-8736-4fbf-943c-9207bf349b86" />
 
